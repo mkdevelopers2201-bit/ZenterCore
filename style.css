@@ -1,0 +1,36 @@
+/* style.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f4f4f4;
+}
+
+header {
+  background: #333;
+  color: #fff;
+  padding: 1rem;
+}
+
+nav {
+  margin-top: 0.5rem;
+}
+
+nav button {
+  margin-right: 0.5rem;
+  padding: 0.5rem 1rem;
+  border: none;
+  background: #555;
+  color: #fff;
+  cursor: pointer;
+}
+
+nav button:hover {
+  background: #777;
+}
+
+#module-container {
+  padding: 2rem;
+  background: #fff;
+  margin: 1rem;
+  border-radius: 5px;
+}
